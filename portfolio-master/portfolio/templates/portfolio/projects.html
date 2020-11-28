@@ -1,0 +1,28 @@
+{% extends 'portfolio/base.html' %}
+{% load static %}
+
+<!-- content -->
+{% block content %}
+
+<div style="float:left" class="container">
+  <div class="row">
+    <div class="col projects">
+
+      <img class ='giticon' height="400" width="400" src="{% static 'portfolio/git_back.png' %}">
+
+    </div>
+    <div class="col projects">
+		<a href="https://github.com/antymijaljevic/9th_division"><h4 class ='alert alert-warning'>9th Division</h4></a>
+		<hr>
+	    <a href="https://github.com/antymijaljevic/emt_dub"><h4 class ='alert alert-warning'>EMT Dublin</h4></a>
+	    <hr>
+	    <a href="https://github.com/antymijaljevic/mainproject"><h4 class ='alert alert-warning'>Main Project</h4></a>
+	    <hr>
+	    <a href="https://github.com/antymijaljevic/code_institute"><h4 class ='alert alert-warning'>Code Institute</h4></a>
+	    <hr>
+	    <a href="https://github.com/antymijaljevic/bots"><h4 class ='alert alert-warning'>Bots</h4></a>
+	    <hr>
+    </div>
+  </div>
+
+{% endblock %}
