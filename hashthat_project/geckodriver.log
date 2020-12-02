@@ -1,0 +1,25 @@
+1606863098203	geckodriver	INFO	Listening on 127.0.0.1:36781
+1606863098207	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofilePc5maQ"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1606863100085	Marionette	INFO	Listening on port 44763
+1606863100141	Marionette	WARN	TLS certificate errors will be ignored for this session
+1606863127132	Marionette	INFO	Stopped listening on port 44763
+1606863129101	geckodriver	INFO	Listening on 127.0.0.1:33805
+1606863129104	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileaChZRu"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1606863130897	Marionette	INFO	Listening on port 35267
+1606863130928	Marionette	WARN	TLS certificate errors will be ignored for this session
+1606863131043	Marionette	INFO	Stopped listening on port 35267
+1606863151561	geckodriver	INFO	Listening on 127.0.0.1:39111
+1606863151565	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofilermIX4u"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1606863153365	Marionette	INFO	Listening on port 34215
+1606863153392	Marionette	WARN	TLS certificate errors will be ignored for this session
+1606863155271	Marionette	INFO	Stopped listening on port 34215
+1606863187484	geckodriver	INFO	Listening on 127.0.0.1:40257
+1606863187487	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileqxhORd"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1606863189190	Marionette	INFO	Listening on port 44257
+1606863189210	Marionette	WARN	TLS certificate errors will be ignored for this session
+1606863191513	Marionette	INFO	Stopped listening on port 44257
+JavaScript error: resource://gre/modules/UrlClassifierListManager.jsm, line 691: TypeError: this.tablesData[table] is undefined
